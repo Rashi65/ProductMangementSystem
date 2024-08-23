@@ -1,0 +1,7 @@
+com\product\Controller\ProductResource.class
+com\product\MyEntity.class
+com\product\Service\ProductService.class
+com\product\Repository\ProductRepository.class
+META-INF\panache-archive.marker
+com\product\ControllerTest\ProductResourceTest.class
+com\product\Entity\Product.class
